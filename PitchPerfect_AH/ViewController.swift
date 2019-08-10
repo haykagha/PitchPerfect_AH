@@ -19,7 +19,7 @@ class ViewController: UIViewController, AVAudioRecorderDelegate {
         recorderLabel.text = "Tap to record"
     }
     
-    var porcnakanPopoxutyun: String = "Porc"
+
     
     
     @IBOutlet weak var recorderLabel: UILabel!
